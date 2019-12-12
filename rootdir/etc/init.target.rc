@@ -176,7 +176,8 @@ service folio_daemon /system/bin/folio_daemon
 
 on property:vendor.persist.hall_wakeup=0
     stop folio_daemon
->>>>>>> 25dadea8... sdm660-common: XiaomiParts: Start folio_daemon only if a prop is set
+on property:vendor.persist.hall_wakeup=1
+    start folio_daemon
 
 on property:vendor.persist.hall_wakeup=1
     start folio_daemon

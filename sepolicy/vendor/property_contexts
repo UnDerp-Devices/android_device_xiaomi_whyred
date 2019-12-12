@@ -26,12 +26,9 @@ gpu.stats.debug.level               u:object_r:vendor_default_prop:s0
 
 persist.vendor.camera.switch.aux    u:object_r:vendor_camera_prop:s0
 
-<<<<<<< HEAD
 wifi.active                         u:object_r:wifi_active_prop:s0
-=======
 # MPCTL
 sys.post_boot.parsed                u:object_r:vendor_mpctl_prop:s0
 
 # Hall wakeup
 vendor.persist.hall_wakeup          u:object_r:hall_wakeup_prop:s0
->>>>>>> 25dadea8... sdm660-common: XiaomiParts: Start folio_daemon only if a prop is set
