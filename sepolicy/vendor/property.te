@@ -9,4 +9,12 @@ type thermal_prop, property_type;
 
 type vendor_camera_prop, property_type;
 
+<<<<<<< HEAD
 type wifi_active_prop, property_type;
+=======
+# Dirac
+type dirac_prop, property_type;
+
+# Hall wakeup
+type hall_wakeup_prop, property_type;
+>>>>>>> 25dadea8... sdm660-common: XiaomiParts: Start folio_daemon only if a prop is set
