@@ -1,0 +1,20 @@
+[
+  {
+    "repository" : "UBDerpQuest-Devices/android_device_xiaomi_whyred",
+    "target_path": "device/xiaomi/whyred",
+    "branch"     : "derp-q",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "UBDerpQuest-Devices/android_kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch"     : "derp-q",
+    "remote"     : "github"
+  },  
+  {
+    "repository" : "UBDerpQuest-Devices/android_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi",
+    "branch"     : "derp-q",
+    "remote"     : "github"
+  }
+]
