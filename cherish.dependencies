@@ -1,0 +1,20 @@
+[
+  {
+    "repository" : "CherishOS-Devices/device_xiaomi_whyred",
+    "target_path": "device/xiaomi/whyred",
+    "branch"     : "ten",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "Doraemon-Kernel/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch"     : "Quiche",
+    "remote"     : "github"
+  },  
+  {
+    "repository" : "CherishOS-Devices/vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi",
+    "branch"     : "ten",
+    "remote"     : "github"
+  }
+]
