@@ -1,8 +1,8 @@
 [
   {
-    "repository" : "CherishOS-Devices/device_xiaomi_whyred",
+    "repository" : "UnDerp-Devices/android_device_xiaomi_whyred",
     "target_path": "device/xiaomi/whyred",
-    "branch"     : "ten",
+    "branch"     : "nest-q",
     "remote"     : "github"
   },
   {
@@ -12,9 +12,9 @@
     "remote"     : "github"
   },  
   {
-    "repository" : "CherishOS-Devices/vendor_xiaomi_whyred",
+    "repository" : "UnDerp-Devices/android_vendor_xiaomi_whyred",
     "target_path": "vendor/xiaomi",
-    "branch"     : "ten",
+    "branch"     : "nest-q",
     "remote"     : "github"
   }
 ]
